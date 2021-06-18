@@ -54,8 +54,22 @@ En cuanto al diseño, se propone cambiar varios aspectos, principalmente la orga
 
 ### 2.b Wireframes
 
-En cuanto a los bocetos, se ha ideado realizar los de la web, ya que se nos ha proporcionado una web que no tiene versión para móvil (no es del todo responsive). Se van a proporcionar los bocetos de la página principal, y el menú de las opiniones (el de los eventos sería el mismo que ya hay, pero sería coger la plantilla y aplicarla al apartado de opiniones que se ha proporcionado.
+En cuanto a los bocetos, se ha ideado realizar los de la web, ya que se nos ha proporcionado una web que no tiene versión para móvil (no es del todo responsive). Se van a proporcionar los bocetos de la página principal, y el menú de las opiniones (el de los eventos sería el mismo que ya hay, pero sería coger la plantilla y aplicarla al apartado de opiniones que se ha proporcionado. También del menú de accesibilidad, que este en principio no abarcaría muchas opciones, pero conforme a más personas tuviesen problemas a usar la web, estas opciones irían incrementando. El resto de apartados no mencionados no se han rediseñado, ya que en mi opinión, su contendio es bastante simple y claro (el apartado de contactanos, publicar un evento, etc). Esto no significa que estén bien ni mal, solo que para mi, el diseño actual es aceptable, sencillo y bastante intuitivo, que es lo que busco con los diseños mostrados a continuación:
 
+* Página principal
+
+![home](boceto_home.png)
+
+* Artículos de opinión (la página de eventos sería similar, pero con los estilos y distribución ya establecidos, usando en todo caso más espacio por cuadro de evento)
+
+![opinion](boceto_contenido.png)
+
+* Menú de accesibilidad
+
+![acc](boceto_accesibilidad.png)
+
+
+Para concluir con este apartado, se quiere aclarar que el rediseño lo he realizado enfocado en simplificar todo el contenido mostrado en la página principal y reorganizarlo todo, mostrando los contenidos relevantes siendo estos los eventos, y las descargas directas de la revista mensual en pdf. En cuanto a los artículos de opinión y accesibilidad, se ha realizado para mostrar un ejemplo de menu de opciones (menú de accesibilidad) y otro que sea mostrar lista de contenido, ya que tal y como se muestra el contenido en los subapartados (espacios culturales, contactar con ellos, la subscripción, etc) me parece bastante limpio y simple, mostrando el contenido de manera clara y concisa, aunque en cada una de estas páginas, la parte superior de la web sería similar a la del rediseño, para así aprovechar el espacio y mostrar el contenido lo antes posible. Otro detalle, es que he decidido limpiar un poco el contenido del footer (ya que personalmente, el footer con mucho contenido me molesta a mi) y se ha añadido en este la opción del idioma de la web (la página tendría que tener al menos el inglés disponible junto al español).
 
 ## Paso 3. Rediseño de la web
 

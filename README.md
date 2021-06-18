@@ -23,5 +23,21 @@ Si le echamos un vistazo rápido a todos los apartados, se puede ver que hay var
 
 Vamos a seleccionar a dos personas, siendo una de ellas apasionada de la cultura, y otra de ellas un poco desatendida de los temas culturales, pero por situaciones personales necesita conocer algún evento cultural interesante al que asistir con su pareja. 
 
+![iris](irisruiz.png)
 
+![fernando](fernandosuarez.png)
+
+
+### 1.c User Jorney Map
+
+Ambas personas van a tener experiencias totalmente distitnas debido a su personalidad y sus metas, siendo Iris una apasoniada de los eventos culturales que desea realizar uno, y Fernando una persona que por visitar su ciudad natal con su mujer durante verano, tiene que buscar eventos culturales que no sean simplemente visitar la Alhambra.
+
+![jmIris](jmapIris.png)
+
+![jmFernando](jmapFernando.png)
+
+### 1.d Usability Review
+* Para acceder al documento completo, pinche [aquí](ur.pdf)
+* Valoración final: algo / 100
+* 
 

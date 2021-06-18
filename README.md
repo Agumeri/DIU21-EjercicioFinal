@@ -44,11 +44,17 @@ Ambas personas van a tener experiencias totalmente distitnas debido a su persona
 
 ## Paso 2. UX Desing
 
+Como únicamente vamos a realizar el rediseño de la web, y no hacerla de cero, no se realizará el ScopeCanvas que hemos visto tanto en teoría como en prácticas, el cual es bastante útil para organizar las ideas. Sin embargo, las mejoras las podemos obtener todas de la Feedback Capture Grid, por lo que únicamente haremos esta matriz, se redactará la propuesta de rediseño planteada, y ejemplos de varios wireframes posibles. 
+
 ### 2.a Feedback Capture Grid y propuesta de rediseño
 
-### 2.b ScopeCanvas
+![fcg](fcgrid.png)
 
-### 2.c Wireframes
+En cuanto al diseño, se propone cambiar varios aspectos, principalmente la organización del contenido. En la página principal, se deberían visualizar los eventos destacados y distintos enlaces a artículos de opinión importantes recientes. Además, el menú de navegación se reorganizaría, indicando el contenido fundamental en este (publicar tu propio evento debería de estar en el apartado de eventos culturales, y no en el menu de opciones, al menos en cuanto a tenerlo todo organizado que es lo que se desea). El apartado de preguntas frecuentes del footer se situaría en este menu de navegación, y dentro de él iría todo el contenido relevante en el apartado de ayudas que tiene el footer actualmente. También, el apartado contactanos se cambiaría a un "sobre nosotros" indicando información de la empresa y su función actual. En cuanto al menú de subscripción, este se situaría ahora dentro del apartado de la revista digital, y la descarga de la revista digital en vez de estar en esa zona, estaría en la página principal, a un click del usuaro, para así tener de manera más accesible una de las funciones principales y más importantes de la web.
+
+### 2.b Wireframes
+
+En cuanto a los bocetos, se ha ideado realizar los de la web, ya que se nos ha proporcionado una web que no tiene versión para móvil (no es del todo responsive). Se van a proporcionar los bocetos de la página principal, y el menú de las opiniones (el de los eventos sería el mismo que ya hay, pero sería coger la plantilla y aplicarla al apartado de opiniones que se ha proporcionado.
 
 
 ## Paso 3. Rediseño de la web

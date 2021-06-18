@@ -37,7 +37,26 @@ Ambas personas van a tener experiencias totalmente distitnas debido a su persona
 ![jmFernando](jmapFernando.png)
 
 ### 1.d Usability Review
-* Para acceder al documento completo, pinche [aquí](ur.pdf)
-* Valoración final: algo / 100
-* 
+* Para acceder al documento completo, pinche [aquí](Usability-review-scores.pdf)
+* Valoración final: 68 / 100
+* Opinión: En general, la página web de YUZIN una vez se ve su contenido a fondo, no está mal del todo. Sin embargo, al mostrar en el home como contenido principal varios artículos de opinión, y no mostrar en grande la opción de descargar la revista digital, da la sensación de que la página ya no se centra en los eventos culturales, lo cual es mentira, ya que informa de bastantes eventos culturales en un apartado específico. A esto, se le suma que muchos apartados importantes están por alguna razón en el footer, o bien apartados que había en el menu de navegación se repiten de nuevo en el footer. Como conclusión, podemos ver que la página en sí no ofrece mal contenido, si no que este tiene que ser reestructurado.
 
+
+## Paso 2. UX Desing
+
+### 2.a Feedback Capture Grid y propuesta de rediseño
+
+### 2.b ScopeCanvas
+
+### 2.c Wireframes
+
+
+## Paso 3. Rediseño de la web
+
+### 3.a Moodboard
+
+### 3.b Guidelines
+
+## Paso 4 Análisis de la usabilidad y la accesibilidad de la web
+
+## Conclusión

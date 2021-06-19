@@ -1,7 +1,8 @@
 # DIU21-EjercicioFinal
 
 Repositorio en el que se pondrá lo correspondiente a la parte 2 del examen final de la asignatura de Diseño de Interfaces de Usuario del curso 20/21
-Autor: Agustín Mérida Gutiérrez
+
+**Autor: Agustín Mérida Gutiérrez**
 
 La parte 2 del examen de DIU consiste en realizar un Caso de estudio de la web [YUZIN](https://yuzin.com/wp-content/uploads/2021/06/YUZIN-GRANADA-junio-2021.pdf). Para ello, haremos uso de la estructura planteada en prácticas, solo que un poco simplificada, para no alargar mucho la longitud de lo que sería esta parte de la entrega.
 

@@ -80,8 +80,23 @@ En cuanto a los elementos escogidos, no han diferido mucho de los ya planteados 
 
 ### 3.b Guidelines
 
+En cuanto a los patrones utilizados, creo que la página hace uso bueno de los pocos que utiliza, por lo menos en cuanto a mostar eventos en sus subapartados específicos. Es por es por eso, que vamos a recapitular las funcionalidades más importantes de la web con el rediseño planteado, para después listar los patrones utilizados o que se necesiten utilizar:
+
+* En primer lugar, nada más abrir la web, la página principal mostrará varias listas, una de los eventos destacados, y otra de artículos de opinión. Además, se puede ver una pequeña lista al lado del logo (en todas las páginas, no solo en la principal) que sirve para descargar la revista virtual de manera directa, o acceder al subapartado Yuzin Mensual.
+* En el apartado de eventos culturales, espacios culturales y artículos de opinión se usarán listas de eventos (teniendo el apartado de los eventos un submenú con opción de compra en cada evento, tal y como en la web original). Estas tres páginas tendrían el mismo esquema para mostrar los contenidos.
+* Los apartados de accesibilidad, preguntas preguntas frecuentes y sobre nosotros servirán de soporte al usuario, ya sea para mostrarle informaciones útiles, o bien para realizar configuraciones conforme al varias preferencias del usuario.
+
+Dadas estas funcionalidades principales, los patrones necesarios serán:
+1. Patrón destacado
+2. Patrón búsqueda
+3. Patrón búsqueda avanzada
+4. Patrón lista
+5. Patrón preferencias
+
 ### 3.c Usabilidad y la accesibilidad de la web
 
-### 3.d Resumen del rediseño planteado/realizado
+En cuanto a la usabilidad y la accesibilidad, la web original tenía varios problemas serios. El principal problema es el acceso a la web desde distintas resoluciones/dispositivos, ya que la web no es responsive del todo, y presenta serios problemas de visualización, haciendo que el menú de navegación en dispositivos móviles no muestre nada. Es por ello, que lo principal del rediseño, antes que nada, sería plantear una web reponsive al no tener Yuzin una app propia. Además, en la web no hay opción de accesibilidad, por lo que se añadiría una teniendo en cuenta en principio el tamaño de la letra de la página, un modo para personas con Parkinson, en el cual se adaptaría la web para que no tuviesen problemas al seleccionar los distintos apartados, y un modo para daltónicos. Conforme a este último modo, tuve en cuetna que el color amarillo no suele presentar problemas para las personas con daltonismo, pero aun así, si en un futuro se utilizasen colores que confundiesen a este colectivo, estaría ya la opción para ellos.
+
+El rediseño de la web ha sido principalmente centrado en estos apartado, ya que el contenido que ofrece es interesante, y creo que solo le faltaba organizarse mejor, y mostrar los contenidos relevantes de una mejor manera, como por ejemplo permitir descargar la revista digital desde la página principal directamente, o mostrar en grande los eventos destacados, y al lado de manera secundaria varios artículos de opinión, consiguiendo así no confundir a los usuarios del propósito de la web. 
 
 ## Conclusión

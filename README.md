@@ -74,9 +74,14 @@ Para concluir con este apartado, se quiere aclarar que el rediseño lo he realiz
 ## Paso 3. Rediseño de la web
 
 ### 3.a Moodboard
+![moodboard](moodboard.png)
+
+En cuanto a los elementos escogidos, no han diferido mucho de los ya planteados originalmente por la web, ya que el fallo principal que tiene esta es la mala organización de la información. En cuanto al **logo**, se han seleccionado los que ya había, por que he buscado por internet algunas alternativas, y ninguno consigue transmitirme la sensación única que transmite el logo original (también, que personalmente me parece atractivo, tanto el logo completo como la simplificación de este). La **paleta de colores** se ha seleccionado la ya planteada también, varios tonos de amarillo, y se han añadido azul (para el botón de búsuqeda, con el objetivo de resaltarlo del resto del contenido, al ser este muy pequeño en comparación con el resto de cosas) y tonos de grises en vez de negro para el footer, ya que no me convencía el contraste entre blanco, amarillo y negro. En cuanto a las **imágenes inspiradoras**, principalmente no se han tenido mucho en cuenta, pero se muestran varias para ver lo que transmite el color amarillo, lo cual puede beneficiar a la web en donde se utiliza actualmente.
 
 ### 3.b Guidelines
 
-## Paso 4 Análisis de la usabilidad y la accesibilidad de la web
+### 3.c Usabilidad y la accesibilidad de la web
+
+### 3.d Resumen del rediseño planteado/realizado
 
 ## Conclusión
